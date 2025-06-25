@@ -1,6 +1,3 @@
-Great question, Rahul! A well-crafted README is like the welcome mat to your project—it tells people what it's about, why it matters, and how to use it. Here’s a solid structure you can follow:
-
----
 
 ## 🚌 Bus Count Automation
 
